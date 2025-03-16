@@ -83,3 +83,9 @@ The datapath connects all components:
 ## Acknowledgements
 
 This implementation follows the standard RISC-V ISA specification and is designed for educational purposes to demonstrate the fundamental concepts of a single-cycle CPU architecture.
+
+# Simulation Results 
+
+![lab 11 sim](https://github.com/user-attachments/assets/6eb9462f-7f03-471a-803f-447b4199350a)
+
+
